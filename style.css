@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  float: right;
+  border: 1px solid black;
+}
+#divider{
+ float: left;
+ padding-right: 10px;
+}
+ h1 {color:black;}
